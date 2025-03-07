@@ -5,7 +5,7 @@ setup(
     version="0.1.0",
     description="AI-driven energy distribution optimization using Reinforcement Learning",
     author="Arda",
-    author_email="ardakara1881@hotmail.com",
+    author_email="ardakara04@outlook.com.tr",
     packages=find_packages(),
     install_requires=[
         "numpy>=1.21.0",
