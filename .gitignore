@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Project specific
+logs/
+models/
+results/
+plots/
+*.pkl
+*.pt
+*.pth
+*.h5
+*.ckpt
+tensorboard/
+wandb/
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.log
+*.csv
+*.json
+
+# Keep specific files
+!requirements.txt
+!setup.py
+!README.md
+!LICENSE
